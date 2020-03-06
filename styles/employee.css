@@ -1,0 +1,8 @@
+.employeeList {
+    border: solid 3px black;
+    text-align: center;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-evenly;
+    margin: 5% 5% 5% 5%;
+}
