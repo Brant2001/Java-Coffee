@@ -1,0 +1,6 @@
+.equipmentList {
+    flex-basis: 50%;
+    border: solid 3px black;
+    text-align: center;
+    margin: 5% 5% 5% 5%;
+}

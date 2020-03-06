@@ -1,0 +1,17 @@
+.main {
+    display: flex;
+    flex-flow: nowrap row;
+    justify-content: space-around;
+}
+
+.productEmployee {
+    display: flex;
+    flex-flow: column;
+    padding: 3% 3% 3% 3%;
+}
+
+.header {
+    text-align: center;
+    font-size: x-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
